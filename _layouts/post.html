@@ -8,10 +8,9 @@ layout: default
   {{ content }}
 
   <div class="post-tags">
-  {% raw %}
     {% for tag in page.tags %}
-      <a href="/TIL/tags/#{{ tag }}">#{{ tag }}</a>
+    <a href="/TIL/tags/#{{ tag }}">#{{ tag }}</a>
     {% endfor %}
-  {% endraw %}
   </div>
+
 </article>
