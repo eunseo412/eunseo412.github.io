@@ -1,6 +1,12 @@
-title: Eunseo Archive
+title: From TIL to Engineer
 description: Loading Eunseo...
 theme: minima
 baseurl: ""
 future: true
 permalink: /:categories/:year/:month/:day/:title/
+header_pages:
+  - til.md
+  - deep-learning.md
+  - data-structure.md
+  - cpp.md
+  - ai-agent.md
