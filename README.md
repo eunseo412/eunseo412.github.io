@@ -6,8 +6,7 @@ https://eunseo412.github.io
 2026.03.02 ~ 
 
 ## Categories
-- c++
-- deep learning
+- C++
+- Deep Learning
 - 자료구조
-- agentic AI
-- langchain, langgraph
+- AI Agent
